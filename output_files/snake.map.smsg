@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at control_module.v(82): always construct contains both blocking and non-blocking assignments File: C:/Users/baile/OneDrive - University of Toronto/Year 2/08-CSC258H1 S/03-Labs/Final Project/control_module.v Line: 82

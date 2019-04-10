@@ -1,0 +1,7 @@
+
+State Machine - |snake|combine:u0|control_module:u0|direction
+Name direction.00 direction.10 direction.01 direction.11 
+direction.11 0 0 0 0 
+direction.01 0 0 1 1 
+direction.10 0 1 0 1 
+direction.00 1 0 0 1 
