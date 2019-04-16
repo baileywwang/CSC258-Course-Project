@@ -24,4 +24,4 @@ It is now time to play with the game:
 - The game has obstacle and tunnel features -- the snake may travel through the tunnel (enter through one end and exit through the other), and the game will terminate if the snake hits the obstacle.
 
 # Important: 
-Files repository were sent to the Department of Computer Science at the University of Toronto at the course coordinator's request, and has been included in the department's database for academic offense detections. The source code in this repository is not intended to be reused for academic purposes.
+Files in this repository were sent to the Department of Computer Science at the University of Toronto at the course coordinator's request, and has been included in the department's database for academic offense detections. The source code in this repository is not intended to be reused for academic purposes.
