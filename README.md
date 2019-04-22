@@ -9,7 +9,7 @@ The Intel® Quartus® Prime Software can be downloaded at http://fpgasoftware.in
 
 # Run the project:
 Please follow the following steps for downloading the compiled project to the board:
-- Connect your DoC-SE1 board to your machine and open Quartus®.
+- Connect your DE1-SoC board to your machine and open Quartus®.
 - Click Tools -> Programmer. A window will pop-out.
 - Click Hardware Setup. You should see the connected board in the window popped out.
 - Double Click the DE1-SoC board, and press "OK".
